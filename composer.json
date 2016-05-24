@@ -1,0 +1,21 @@
+{
+  "name": "jamset/php-mailer-adapter",
+  "description": "Adapter to PHPMailer",
+  "require": {
+    "php": ">=5.5.9",
+    "phpmailer/phpmailer": "~5.2"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jam Set",
+      "email": "jamset@joinger.org"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "PHPMailerAdapter\\": "src/"
+    }
+  }
+}

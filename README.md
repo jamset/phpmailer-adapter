@@ -1,0 +1,2 @@
+# phpmailer-adapter
+PHPMailer adapter

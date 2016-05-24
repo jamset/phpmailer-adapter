@@ -2,4 +2,4 @@
 Adapter to PHPMailer
 
 ##Install
-`composer require jamset/php-mailer-adapter`
+`composer require jamset/phpmailer-adapter`

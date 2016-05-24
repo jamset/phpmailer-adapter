@@ -1,5 +1,5 @@
 {
-  "name": "jamset/php-mailer-adapter",
+  "name": "jamset/phpmailer-adapter",
   "description": "Adapter to PHPMailer",
   "require": {
     "php": ">=5.5.9",
